@@ -1,4 +1,4 @@
-### 👋 Hi I'm Ebuka
+### 😎 Hi 👋 I'm Ebuka
 
 I am a Data Analyst and Scientist, learning how to further utilize and analyse data for its various uses. I also like developing solutions like task automation using Python language
 
@@ -7,7 +7,7 @@ Skills: **Python / SQL / Power BI / Excel**
 - 🌱 I’m currently learning Python integration with SQL databases (PostgreSQL) and implementation of Django
 - 🔭 I’m constantly improving my Data Science and Software Engineering skills
 - 📫 How to reach me: ccifechukwu@gmail.com
-- ⚡ Fun fact: I play Basketball 😄 and video games 🎮
+- ⚡ Fun fact: I play Basketball 🏀😄 and video games 🎮
 
 [![Linkedin Badge](https://img.shields.io/badge/-EbukaIfechukwu-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/chukwuebuka-c-ifechukwu/)](https://www.linkedin.com/in/chukwuebuka-c-ifechukwu/) [![Github Badge](https://img.shields.io/badge/-EbukaIfechukwu-red?style=flat&logo=github&logoColor=white&link=https://github.com/Ebuka21/)](https://github.com/Ebuka21/)
 
